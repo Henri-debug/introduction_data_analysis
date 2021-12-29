@@ -11,3 +11,5 @@ Os projetos de Análise de Dados são na verdade Desafios das Empresas
 - Está querendo aumentar as vendas
 - O que fazer?
 - Informações Disponíveis: Base de Vendas
+
+[Link para o arquivo](Introdução_Analise_de_Dados.ipynb)
